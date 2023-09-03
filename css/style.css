@@ -14,6 +14,7 @@ body {
     border-radius: 2px;
 }
 
+/* 10 */
 .header {
     margin: 0 4% 57px;
 }
@@ -37,6 +38,7 @@ body {
     background: #FFF;
 }
 
+/* 10 */
 .header__img--mod {
     width: 100%;
 }
@@ -48,6 +50,13 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    
+}
+
+.article__text--spec, 
+.header__heading--spec, 
+.nav-heading {
+    text-transform: uppercase;
 }
 
 /* 10 */
@@ -86,10 +95,6 @@ body {
     line-height: normal;
 }
 
-.article__text--spec {
-    text-transform: uppercase;
-}
-
 /* 10 */
 .article__text--add {
     text-decoration-line: line-through;
@@ -114,13 +119,12 @@ body {
 
 /* 10 */
 .nav-heading {
-    padding: 26px 53% 0 29px;
+    padding: 26px 53% 0 18%;
     font-family: Arial;
     font-size: 1rem;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    text-transform: uppercase;
 }
 
 /* 10 */
